@@ -9,4 +9,5 @@ public class Singleton_01 {
     public static Singleton_01 getInstance(){
         return uniqueInstance;
     }
+
 }
